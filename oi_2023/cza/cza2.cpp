@@ -1,5 +1,5 @@
 //O(n + n)
-//to do: R nie wystąpiło nigdzie indziej w słowie S′, to przyjmujemy c = a.
+
 #include <iostream>
 #include <string>
 #include <unordered_map>
