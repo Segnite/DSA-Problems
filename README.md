@@ -1,3 +1,3 @@
 # DSA-Problems
  
-Here are my coded solutions for algorithmic problems from -> {Polish olympiads in informatics, leetcode, codeforces}
+Here are some of my coded solutions for algorithmic problems from -> {Polish olympiads in informatics, leetcode, codeforces}
